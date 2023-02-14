@@ -2,7 +2,9 @@
 
 # The Ultimate vimrc
 
-Over the last 10 years, I have used and tweaked Vim. This configuration is the ultimate vimrc (or at least my version of it).
+> Over the last 10 years, I have used and tweaked Vim. This configuration is the ultimate vimrc (or at least my version of it).
+
+This is a fork of amix's Ultimate vimrc with some of my own person preferences worked in.
 
 There are two versions:
 
@@ -403,11 +405,4 @@ Cope mappings:
 Just do following:
 * Remove `~/.vim_runtime`
 * Remove any lines that reference `.vim_runtime` in your `~/.vimrc`
-
-
-## Looking for a remote-first job?
-
-Maintaining this Vim configuration isn't my day job. Daily I am the founder/CEO of [Doist](https://doist.com/). You could come and help us build the workplace of the future while living a balanced life (anywhere in the world 🌍🌎🌏).
-
-PS: Using Vim isn't a requirement 😄
 
